@@ -1,2 +1,2 @@
-# Docker and Git
-Шпаргалка по Docker и Git
+# Docker
+Шпаргалка по Docker, консольные команды
