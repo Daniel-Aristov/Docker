@@ -1,2 +1,2 @@
-# Docker
-Шпаргалка по Docker
+# Docker and Git
+Шпаргалка по Docker и Git
